@@ -6,7 +6,7 @@ Welcome to the AWS Security Alerting Project! This project aims to provide a str
 
 # Setup Intructions:
 1. ## Create an AWS Account:
-If you haven't already, create an AWS account at [Amazon Web Services](https://aws.amazon.com/)
+ If you haven't already, create an AWS account at [Amazon Web Services](https://aws.amazon.com/)
 
 2. ## Enable Amazon GuardDuty:
 * Log in to your AWS Management Concole.
