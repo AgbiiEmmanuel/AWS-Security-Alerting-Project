@@ -2,7 +2,7 @@
 Welcome to the AWS Security Alerting Project! This project aims to provide a straightforward setup for monitoring and receiving alerts for security events within your AWS environment, utilizing services such as GuardDuty, Simple Notification Service (SNS), and CloudWatch. This Readme file will guide you through the setup process and explain how the different components work together to enhance the security posture of your AWS account.
 
 
-![AWS SECURITY ALERTING PROJECT](https://github.com/AgbiiEmmanuel/AWS-Security-Alerting-Project/assets/159606680/f661df7b-7240-42ac-907c-86f3e93e2d8a)
+![aws security alerting project](https://github.com/AgbiiEmmanuel/AWS-Security-Alerting-Project/assets/159606680/bfc7c95c-2c8e-4271-8db3-4be4f8e525c1)
 
 
 
