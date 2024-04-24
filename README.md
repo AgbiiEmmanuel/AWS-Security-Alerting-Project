@@ -5,6 +5,7 @@ Welcome to the AWS Security Alerting Project! This project aims to provide a str
 ![AWS SECURITY ALERTING PROJECT](https://github.com/AgbiiEmmanuel/AWS-Security-Alerting-Project/assets/159606680/f661df7b-7240-42ac-907c-86f3e93e2d8a)
 
 
+
 # Setup Intructions:
 1. ## Create an AWS Account:
 * If you haven't already, create an AWS account at [Amazon Web Services](https://aws.amazon.com/)
